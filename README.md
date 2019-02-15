@@ -1,2 +1,0 @@
-# academicProgress
-Created with CodeSandbox
